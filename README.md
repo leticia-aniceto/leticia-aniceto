@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @leticia-aniceto
-- 👀 I’m interested in Front-End and Full-Stack. I'm biologist and I love anthropology, sustaintability and public politics. 
-- 🌱 I’m currently learning CSS, JavaScript and learning how to use Linux as well as possible.
-- 💞️ I’m looking to collaborate on any ideias about sustaintabulity and websites development and layouts! I'm new, so please be patient :)
-- 📫 How to reach me leticia.aniceto@usp.br
+👋 # Hi, I’m @leticia-aniceto
+ 
+ ***
+ 
+🐛 Biologist in metamorphosis to dev
+👀 Front-End Student at Laboratoria(https://www.laboratoria.la/)
+🌱 Learning CSS3, JavaScript and HTML5
+🕸️ I’m looking to collaborate on any ideias about web development and layouts! I'm new, so please be patient :)
+
+How to reach me: 
+
+📫 Email(mailto:leticiab.aniceto@gmail.com)
+👩‍💼 LinkedIn(https://www.linkedin.com/in/leticia-braga-aniceto/)
 
 <!---
 leticia-aniceto/leticia-aniceto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
